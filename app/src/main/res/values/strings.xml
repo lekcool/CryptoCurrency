@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_search">ค้นหา</string>
+</resources>

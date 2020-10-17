@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_size">8dp</dimen>
+
+    <dimen name="space_size">8dp</dimen>
+    <dimen name="space_size_l">12dp</dimen>
+    <dimen name="space_size_xl">16dp</dimen>
+
+    <dimen name="icon_size">50dp</dimen>
+
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="text_size_body1">14sp</dimen>
+
+    <dimen name="width_max_error">260dp</dimen>
+</resources>
