@@ -10,6 +10,7 @@
         android:id="@+id/iconImage"
         android:layout_width="@dimen/icon_size"
         android:layout_height="@dimen/icon_size"
+        android:contentDescription="@string/text_desc_icon"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:src="@tools:sample/avatars" />

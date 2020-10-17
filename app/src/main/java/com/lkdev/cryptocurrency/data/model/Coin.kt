@@ -4,7 +4,6 @@ import android.text.Html
 import android.text.Spanned
 import androidx.recyclerview.widget.DiffUtil
 import com.google.gson.annotations.SerializedName
-import kotlinx.android.synthetic.main.item_coin.view.*
 
 typealias CoinId = Int
 

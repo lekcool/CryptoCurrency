@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.lkdev.cryptocurrency.R
 import kotlinx.android.synthetic.main.fragment_main.*
-import kotlinx.android.synthetic.main.item_state.view.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class MainFragment : Fragment(R.layout.fragment_main) {

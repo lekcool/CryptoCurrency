@@ -2,4 +2,5 @@
     <string name="app_name">Cryptocurrency</string>
     <string name="text_retry">Retry</string>
     <string name="text_search">ค้นหา</string>
+    <string name="text_desc_icon">icon</string>
 </resources>

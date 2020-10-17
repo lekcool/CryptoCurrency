@@ -1,6 +1,5 @@
 package com.lkdev.cryptocurrency.ui
 
-import android.text.Html
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import coil.ImageLoader
